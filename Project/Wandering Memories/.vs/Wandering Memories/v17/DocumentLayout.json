@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|c:\\users\\david\\mestrado\\semestre3\\desdj\\final_project\\wandering memories\\assets\\scripts\\game\\player\\automelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\automelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|c:\\users\\david\\mestrado\\semestre3\\desdj\\final_project\\wandering memories\\assets\\scripts\\game\\player\\meleeknockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\meleeknockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|c:\\users\\david\\mestrado\\semestre3\\desdj\\final_project\\wandering memories\\assets\\scripts\\game\\player\\playermelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\playermelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\assets\\scripts\\game\\player\\playerchargedshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\playerchargedshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\assets\\scripts\\game\\player\\rotatetowardsmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\rotatetowardsmouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\assets\\scripts\\game\\player\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C92F18F6-3946-0417-D3A5-CE18F46590EB}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\game\\player\\weaponscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeleeKnockback.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\MeleeKnockback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\MeleeKnockback.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\MeleeKnockback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\MeleeKnockback.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:29:12.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AutoMelee.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\AutoMelee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\AutoMelee.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\AutoMelee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\AutoMelee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:27:12.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMelee.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\PlayerMelee.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\PlayerMelee.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\PlayerMelee.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\PlayerMelee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:22:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerChargedShot.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\PlayerChargedShot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\PlayerChargedShot.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\PlayerChargedShot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\PlayerChargedShot.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:13:59.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeaponsController.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\WeaponsController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\WeaponsController.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\WeaponsController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\WeaponsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:10:48.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rotateTowardsMouse.cs",
+              "DocumentMoniker": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\rotateTowardsMouse.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Game\\Player\\rotateTowardsMouse.cs",
+              "ToolTip": "C:\\Users\\david\\Mestrado\\Semestre3\\DESDJ\\Final_Project\\Wandering Memories\\Assets\\Scripts\\Game\\Player\\rotateTowardsMouse.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Game\\Player\\rotateTowardsMouse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T23:09:54.156Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
